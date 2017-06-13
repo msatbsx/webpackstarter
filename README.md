@@ -1,7 +1,7 @@
-#webpack starter kit
+# webpack starter kit
 set of snipets for fast start
 
-##Author
+## Author
 Michal Szymaniak ms@bsx.pl
-##Licence
+## License
 MIT

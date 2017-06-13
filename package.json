@@ -1,0 +1,26 @@
+{
+  "name": "webpackstarter",
+  "version": "1.0.0",
+  "description": "start new project form here",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "file-loader": "^0.11.2",
+    "jquery": "^3.2.1",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.4",
+    "style-loader": "^0.18.2",
+    "uglifyjs-webpack-plugin": "^0.4.3",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Michal Szymaniak",
+  "license": "MIT"
+}
